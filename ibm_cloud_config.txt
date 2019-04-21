@@ -1,0 +1,9 @@
+ibm_cf:
+    endpoint    : endpointo
+    namespace   : nameo
+    api_key     : keyo
+
+ibm_cos:
+    endpoint   : endpoito2
+    access_key : akeyo
+    secret_key : skeyo
